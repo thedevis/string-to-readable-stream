@@ -1,0 +1,21 @@
+{
+  "name": "string-to-readable-stream",
+  "version": "1.0.0",
+  "description": "convert a string into a readable stream",
+  "author": "Praveen Kumar <thedevisone@gmail.com>",
+  "homepage": "https://github.com/thedevis/string-to-readable-stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha specs/*.specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thedevis/string-to-readable-stream.git"
+  },
+  "keywords": ["readable stream","string to readable stream","sting to string","string to utf-8 stream"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
